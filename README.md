@@ -2,21 +2,21 @@
 
 ### Tiivistelmä
 
-Transformer-arkkitehtuuri on mullistanut syväoppimisen monilla sovellusalueilla, kuten luon-
-nollisen kielen ja kuvien käsittelyssä. Sen vahvuus perinteisiin neuroverkkoratkaisuihin verrat-
-tuna perustuu tehokkaaseen huomiomekanismiin, joka mahdollistaa tärkeiden riippuvuuksien
-tunnistamisen syötteessä ilman tarvetta peräkkäiselle tiedonkäsittelylle. Transformer hyödyn-
-tää rinnakkaislaskentaa ja soveltuu erinomaisesti monimutkaisten ja pitkäkestoisten riippu-
-vuuksien mallintamiseen, mikä antaa sille merkittävän edun muihin neuroverkkoratkaisuihin
+Transformer-arkkitehtuuri on mullistanut syväoppimisen monilla sovellusalueilla, kuten luonnollisen 
+kielen ja kuvien käsittelyssä. Sen vahvuus perinteisiin neuroverkkoratkaisuihin verrattuna 
+perustuu tehokkaaseen huomiomekanismiin, joka mahdollistaa tärkeiden riippuvuuksien
+tunnistamisen syötteessä ilman tarvetta peräkkäiselle tiedonkäsittelylle. Transformer hyödyntää 
+rinnakkaislaskentaa ja soveltuu erinomaisesti monimutkaisten ja pitkäkestoisten riippuvuuksien 
+mallintamiseen, mikä antaa sille merkittävän edun muihin neuroverkkoratkaisuihin
 verrattuna. Nämä ominaisuudet tekevät Transformer-malleista kiinnostavan vaihtoehdon myös
 aikasarjojen analyysissä, jossa datan erityispiirteet, kuten trendit ja kausivaihtelut, asettavat
 omat vaatimuksensa.
 Tutkielmassa tarkastellaan ensin Transformer-arkkitehtuurin perusrakennetta ja sen keskeisiä
-ominaisuuksia, kuten huomiomekanismia ja rinnakkaislaskennan mahdollistavia tekijöitä. Tä-
-män jälkeen siirrytään aikasarjojen analyysiin, esittelemällä ensin aikasarjojen ominaispiirteet
+ominaisuuksia, kuten huomiomekanismia ja rinnakkaislaskennan mahdollistavia tekijöitä. Tämän 
+jälkeen siirrytään aikasarjojen analyysiin, esittelemällä ensin aikasarjojen ominaispiirteet
 sekä perinteiset menetelmät, joita on käytetty aikasarjojen mallintamisessa. Lisäksi käsitellään
-erilaisia Transformer-pohjaisia ratkaisuja, joita on kehitetty aikasarjojen analysoimiseksi. Aika-
-sarjat asettavat monia haasteita malleille ja arkkitehtuuria täytyy muokata näiden haasteiden
+erilaisia Transformer-pohjaisia ratkaisuja, joita on kehitetty aikasarjojen analysoimiseksi. 
+Aikasarjat asettavat monia haasteita malleille ja arkkitehtuuria täytyy muokata näiden haasteiden
 ratkaisemiseksi. Vaikka Transformer-mallien potentiaali aikasarja-analyysissä on käynyt ilmi,
 niiden mahdollisuuksia ja rajoitteita ei vielä täysin ymmärretä. Transformer-mallien joustavuus
 ja muokattavuus tarjoavat kuitenkin vahvan pohjan jatkotutkimukselle.
